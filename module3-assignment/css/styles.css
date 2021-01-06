@@ -68,7 +68,10 @@ body {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
   box-shadow: none;
-  border-top: 1px solid black;
+}
+
+#collapsable-nav{
+  border-top: 0;
 }
 
 .navbar-nav{
